@@ -7,7 +7,7 @@
 ### Step 1: Bayesian Network Definition and CPDs:<br>
 (i) Define the Bayesian network structure using the BayesianNetwork class from pgmpy.models.<br>
 (ii) Define Conditional Probability Distributions (CPDs) for each variable using the TabularCPD class.<br>
-(iii) Add the CPDs to the network.<br>
+(iii) Add the CPDs to the network.<br> 
 ### Step 2: Printing Bayesian Network Structure:<br>
 (i) Print the structure of the Bayesian network using the print(network) statement.
 ### Step 3: Graph Visualization:<br>
